@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shiyu0318.github.io/SHIYU0318.github.io/about/</loc>
+    
+    <lastmod>2024-03-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shiyu0318.github.io/SHIYU0318.github.io/post/Winter-Camp-2024/</loc>
     
     <lastmod>2024-03-09</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://shiyu0318.github.io/SHIYU0318.github.io/post/Hello-World/</loc>
-    
-    <lastmod>2024-03-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://shiyu0318.github.io/SHIYU0318.github.io/about/</loc>
     
     <lastmod>2024-03-09</lastmod>
     
