@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>網站頁面導覽</title>
-    <url>/SHIYU0318.github.io/post/Sitemap/</url>
+    <url>/ShiYu0318.github.io/post/Sitemap/</url>
     <content><![CDATA[<h1>歡迎來到 ShiYu’s Blog ！</h1>
 <h2 id="導覽">導覽</h2>
 <ol>
@@ -125,7 +125,7 @@
   </entry>
   <entry>
     <title>AI 人工智慧相關理論知識筆記彙整（持續更新）</title>
-    <url>/SHIYU0318.github.io/post/AI-note/</url>
+    <url>/ShiYu0318.github.io/post/AI-note/</url>
     <content><![CDATA[<h1>人工智慧 Artificial Intelligent</h1>
 <ul>
 <li>圖靈測試：測試機器是否能表現出與人等價或是無法區分的智慧</li>
@@ -458,8 +458,13 @@
       </tags>
   </entry>
   <entry>
+    <title>Python 實作簡單爬蟲程式</title>
+    <url>/ShiYu0318.github.io/post/Python-Web-Crawler/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>C++ 進階資料結構實作</title>
-    <url>/SHIYU0318.github.io/post/Data-Structures-advanced/</url>
+    <url>/ShiYu0318.github.io/post/Data-Structures-advanced/</url>
     <content><![CDATA[<h1>撰寫中，敬請期待</h1>
 <h2 id="預計內容">預計內容</h2>
 <ul>
@@ -493,7 +498,7 @@
   </entry>
   <entry>
     <title>南九校資訊社 x 成大資工 x SCIST 2024 聯合寒訓 - 資得其樂 籌辦心得</title>
-    <url>/SHIYU0318.github.io/post/Winter-Camp-2024/</url>
+    <url>/ShiYu0318.github.io/post/Winter-Camp-2024/</url>
     <content><![CDATA[<h1><a href="https://hackmd.io/@nine-southern-schools/Complete_information">寒訓詳細資訊</a></h1>
 <p><img src="https://hackmd.io/_uploads/rkoBua7sa.png" alt="資得其樂 LOGO"></p>
 <h1>引言</h1>
@@ -581,7 +586,7 @@
   </entry>
   <entry>
     <title>Fun AI 2024 參與心得</title>
-    <url>/SHIYU0318.github.io/post/Fun-AI-2024/</url>
+    <url>/ShiYu0318.github.io/post/Fun-AI-2024/</url>
     <content><![CDATA[<p>待更新</p>
 ]]></content>
       <categories>
@@ -595,7 +600,7 @@
   </entry>
   <entry>
     <title>C++ STL 內建基礎資料結構</title>
-    <url>/SHIYU0318.github.io/post/Data-Structures-basic/</url>
+    <url>/ShiYu0318.github.io/post/Data-Structures-basic/</url>
     <content><![CDATA[<h1>Intro</h1>
 <p>在去年 2022 的 12 月，我寫了一篇 <a href="https://shiyu0318.github.io/post/Data-Structures-python/">基礎資料結構 Data Structures (Python)</a> 簡單的介紹概念並以 python 實做了一些基礎資料結構，而自從我使用 C++ 後，接觸到了 C++ STL 內建的資料結構，於是我在今年 2023 年的 12 月寫了這篇文章，彙整了許多資料結構的概念與用法，文章內容較多，所有內容皆為收集的資料擷取並經過修改整理而成，文章內容若有任何錯誤或需要補充的地方都歡迎使用右側聊天室傳送訊息給我，我將會儘速修改，謝謝</p>
 <h1>先備知識</h1>
@@ -1197,7 +1202,7 @@
   </entry>
   <entry>
     <title>訓練神經網路計算過程</title>
-    <url>/SHIYU0318.github.io/post/Neural-Network/</url>
+    <url>/ShiYu0318.github.io/post/Neural-Network/</url>
     <content><![CDATA[<p>這是一個具有一層隱藏層的神經網路：</p>
 <p><img src="https://hackmd.io/_uploads/S1zIPbGw6.png" alt="神經網路示意圖"></p>
 <h1>假設</h1>
@@ -1782,7 +1787,7 @@ M347 1759 V0 H263 V1759 v0 v1759 h84z'/></svg></span></span></span><span class="
   </entry>
   <entry>
     <title>資訊學科能力競賽 參賽心得</title>
-    <url>/SHIYU0318.github.io/post/NHSPC/</url>
+    <url>/ShiYu0318.github.io/post/NHSPC/</url>
     <content><![CDATA[<h2 id="競賽資訊">競賽資訊</h2>
 <ul>
 <li>名稱：112 學年度學科能力競賽 複賽 資訊科</li>
@@ -2107,7 +2112,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>南大附中 資訊研究社 創社計畫</title>
-    <url>/SHIYU0318.github.io/post/NFIRC/</url>
+    <url>/ShiYu0318.github.io/post/NFIRC/</url>
     <content><![CDATA[<h1><a href="https://hackmd.io/@YuDong/ashsnutn_csirc">創社計畫</a></h1>
 <hr>
 <h2 id="點擊回到導覽頁面"><a href="https://shiyu0318.github.io/post/Sitemap/">點擊回到導覽頁面</a></h2>
@@ -2126,7 +2131,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>排序演算法 Sort Algorithm (C++)</title>
-    <url>/SHIYU0318.github.io/post/Sort-Algorithm/</url>
+    <url>/ShiYu0318.github.io/post/Sort-Algorithm/</url>
     <content><![CDATA[<p>現今社會，資料量不斷地增加，因此排序演算法的重要性日益提升，從大數據排序到網路搜尋引擎排序，排序演算法在我們日常生活中扮演了重要的角色。</p>
 <p>本文將介紹10種常見的排序演算法，來和我一起學習掌握排序演算法的原理及實作過程吧！</p>
 <hr>
@@ -2767,7 +2772,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>基礎資料結構 Data Structures (Python)</title>
-    <url>/SHIYU0318.github.io/post/Data-Structures-python/</url>
+    <url>/ShiYu0318.github.io/post/Data-Structures-python/</url>
     <content><![CDATA[<p>資料結構是電腦中儲存、組織資料的方式<br>
 選擇好的資料結構是提升<code>演算法</code>效率的關鍵</p>
 <h1>陣列 Array</h1>
@@ -3075,7 +3080,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>職業達人訪談大啟示 輔導課期末報告</title>
-    <url>/SHIYU0318.github.io/post/Profession-Interview/</url>
+    <url>/ShiYu0318.github.io/post/Profession-Interview/</url>
     <content><![CDATA[<h3 id="訪談日期：2022-12-10">訪談日期：2022/12/10</h3>
 <h3 id="訪談地點：竹崎高中">訪談地點：竹崎高中</h3>
 <h3 id="訪談對象：黃皇賓-老師">訪談對象：黃皇賓 老師</h3>
@@ -3261,7 +3266,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>時間複雜度 &amp; 空間複雜度</title>
-    <url>/SHIYU0318.github.io/post/Big-O/</url>
+    <url>/ShiYu0318.github.io/post/Big-O/</url>
     <content><![CDATA[<p><strong>當我們需要用比較客觀的方式去評斷一個演算法的效能好不好的時候 我們就會討論它的「時間複雜度」與「空間複雜度」</strong></p>
 <h1>時間複雜度</h1>
 <p><strong><code>計算一支程式丟到電腦上需要執行多久</code></strong></p>
@@ -3319,7 +3324,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   </entry>
   <entry>
     <title>Hello, World.</title>
-    <url>/SHIYU0318.github.io/post/Hello-World/</url>
+    <url>/ShiYu0318.github.io/post/Hello-World/</url>
     <content><![CDATA[<h2 id="歡迎來到士育的部落格！">歡迎來到士育的部落格！</h2>
 <h3 id="網頁介紹">網頁介紹</h3>
 <p>此網頁使用了 <a href="https://hexo.io/zh-tw/">Hexo靜態網頁框架</a></p>
