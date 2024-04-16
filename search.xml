@@ -1183,16 +1183,16 @@
       <tags>
         <tag>C++</tag>
         <tag>資料結構 Data Structures</tag>
+        <tag>堆疊 stack</tag>
+        <tag>佇列 queue</tag>
+        <tag>集合 set</tag>
+        <tag>映射 map</tag>
         <tag>動態陣列 vector</tag>
         <tag>字串 string</tag>
         <tag>數對 pair</tag>
         <tag>數組 tuple</tag>
-        <tag>堆疊 stack</tag>
-        <tag>佇列 queue</tag>
         <tag>雙端佇列 deque</tag>
         <tag>優先佇列 ptiority_queue</tag>
-        <tag>集合 set</tag>
-        <tag>映射 map</tag>
         <tag>多重集合 multiset</tag>
         <tag>多重映射 multimap</tag>
         <tag>無序集合 unordered_set</tag>
@@ -3066,13 +3066,13 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
       <tags>
         <tag>實作</tag>
         <tag>資料結構 Data Structures</tag>
+        <tag>Python</tag>
+        <tag>陣列 array</tag>
+        <tag>鏈結串列 Linked list</tag>
         <tag>堆疊 stack</tag>
         <tag>佇列 queue</tag>
         <tag>集合 set</tag>
         <tag>映射 map</tag>
-        <tag>Python</tag>
-        <tag>陣列 array</tag>
-        <tag>鏈結串列 Linked list</tag>
         <tag>樹 tree</tag>
         <tag>堆積 heap</tag>
         <tag>雜湊 hash</tag>
