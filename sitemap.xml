@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shiyu0318.github.io/ShiYu0318.github.io/post/Python-Web-Crawler/</loc>
+    <loc>https://shiyu0318.github.io/ShiYu0318.github.io/post/AI-note/</loc>
     
-    <lastmod>2024-04-11</lastmod>
+    <lastmod>2024-04-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://shiyu0318.github.io/ShiYu0318.github.io/about/</loc>
+    
+    <lastmod>2024-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shiyu0318.github.io/ShiYu0318.github.io/post/Python-Web-Crawler/</loc>
     
     <lastmod>2024-04-11</lastmod>
     
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://shiyu0318.github.io/ShiYu0318.github.io/post/Sitemap/</loc>
-    
-    <lastmod>2024-02-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://shiyu0318.github.io/ShiYu0318.github.io/post/AI-note/</loc>
     
     <lastmod>2024-02-29</lastmod>
     
