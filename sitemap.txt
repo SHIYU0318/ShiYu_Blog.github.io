@@ -1,7 +1,7 @@
-https://shiyu0318.github.io/ShiYu0318.github.io/music/
-https://shiyu0318.github.io/ShiYu0318.github.io/link/
-https://shiyu0318.github.io/ShiYu0318.github.io/categories/
-https://shiyu0318.github.io/ShiYu0318.github.io/about/
+https://shiyu0318.github.io/ShiYu0318.github.io/music/index.html
+https://shiyu0318.github.io/ShiYu0318.github.io/link/index.html
+https://shiyu0318.github.io/ShiYu0318.github.io/categories/index.html
+https://shiyu0318.github.io/ShiYu0318.github.io/about/index.html
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Winter-Camp-2024/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Sort-Algorithm/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Profession-Interview/
@@ -17,7 +17,7 @@ https://shiyu0318.github.io/ShiYu0318.github.io/post/Big-O/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/AI-note/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Python-Web-Crawler/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Sitemap/
-https://shiyu0318.github.io/ShiYu0318.github.io/tags/
+https://shiyu0318.github.io/ShiYu0318.github.io/tags/index.html
 https://shiyu0318.github.io/ShiYu0318.github.io
 https://shiyu0318.github.io/ShiYu0318.github.io/tags/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/
 https://shiyu0318.github.io/ShiYu0318.github.io/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ML/
