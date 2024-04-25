@@ -1,3 +1,4 @@
+https://shiyu0318.github.io/ShiYu0318.github.io/post/Sitemap/
 https://shiyu0318.github.io/ShiYu0318.github.io/music/index.html
 https://shiyu0318.github.io/ShiYu0318.github.io/link/index.html
 https://shiyu0318.github.io/ShiYu0318.github.io/categories/index.html
@@ -16,7 +17,6 @@ https://shiyu0318.github.io/ShiYu0318.github.io/post/Data-Structures-advanced/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Big-O/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/AI-note/
 https://shiyu0318.github.io/ShiYu0318.github.io/post/Python-Web-Crawler/
-https://shiyu0318.github.io/ShiYu0318.github.io/post/Sitemap/
 https://shiyu0318.github.io/ShiYu0318.github.io/tags/index.html
 https://shiyu0318.github.io/ShiYu0318.github.io
 https://shiyu0318.github.io/ShiYu0318.github.io/tags/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/
