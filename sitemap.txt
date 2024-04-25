@@ -1,8 +1,8 @@
 https://www.4yu.dev/post/Sitemap/
-https://www.4yu.dev/music/index.html
-https://www.4yu.dev/link/index.html
-https://www.4yu.dev/categories/index.html
-https://www.4yu.dev/about/index.html
+https://www.4yu.dev/music/
+https://www.4yu.dev/link/
+https://www.4yu.dev/categories/
+https://www.4yu.dev/about/
 https://www.4yu.dev/post/Winter-Camp-2024/
 https://www.4yu.dev/post/Sort-Algorithm/
 https://www.4yu.dev/post/Profession-Interview/
@@ -17,7 +17,7 @@ https://www.4yu.dev/post/Data-Structures-advanced/
 https://www.4yu.dev/post/Big-O/
 https://www.4yu.dev/post/AI-note/
 https://www.4yu.dev/post/Python-Web-Crawler/
-https://www.4yu.dev/tags/index.html
+https://www.4yu.dev/tags/
 https://www.4yu.dev/
 https://www.4yu.dev/tags/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/
 https://www.4yu.dev/tags/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-ML/
