@@ -487,19 +487,6 @@
     
     
     <entry>
-      <title>Hello, World.</title>
-      <link href="/post/Hello-World/"/>
-      <url>/post/Hello-World/</url>
-      
-        <content type="html"><![CDATA[<h2 id="歡迎來到士育的部落格！">歡迎來到士育的部落格！</h2><h3 id="網頁介紹">網頁介紹</h3><p>此網頁使用了 <a href="https://hexo.io/zh-tw/">Hexo靜態網頁框架</a></p><p>部署在 <a href="https://pages.github.com/">Github pages</a> 上</p><p>我使用的Theme主題是 <a href="https://butterfly.js.org/">Butterfly</a></p><h3 id="網頁用途">網頁用途</h3><p>這裡是我的程式筆記網頁</p><p>內容包括我所學到的 資料結構 演算法</p><p>不會有程式語言基礎語法 因為網路上資源多且詳細</p><p>筆記中的內容或許會有小錯誤或不完整 所以我會不斷的更新修改</p><p>我也會不定期的發佈 程式解題 知識筆記 還有各種心得紀錄 …</p><p>有興趣的人可以參閱其他文章或到上方其他頁面看看</p><p>如果你對文章有任何想法或建議 歡迎在文章下方評論區登入 Github 帳號 留下你的看法</p><p>或是可以直接使用右側中間的 線上聊天室功能 傳訊息給我 我會盡快回覆你的訊息</p><p>若你想開始學程式 請到上方 link 連結 的頁面 我有放許多資源可以提供你學習</p><p>提供的資源涵蓋 各種程式語言的基礎語法 以及各種程式相關平台 工具…</p><p>以及各個程式社群的 Discord 伺服器</p><p>希望能對你有所幫助 ！</p><h3 id="網址">網址</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://shiyu0318.github.io</span><br></pre></td></tr></table></figure><hr><h2 id="點擊回到導覽頁面"><a href="https://shiyu0318.github.io/post/Sitemap/">點擊回到導覽頁面</a></h2><hr>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>網站頁面導覽</title>
       <link href="/post/Sitemap/"/>
       <url>/post/Sitemap/</url>
@@ -513,6 +500,19 @@
             <tag> 網頁導覽 Site map </tag>
             
         </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello, World.</title>
+      <link href="/post/Hello-World/"/>
+      <url>/post/Hello-World/</url>
+      
+        <content type="html"><![CDATA[<h2 id="歡迎來到士育的部落格！">歡迎來到士育的部落格！</h2><h3 id="網頁介紹">網頁介紹</h3><p>此網頁使用了 <a href="https://hexo.io/zh-tw/">Hexo靜態網頁框架</a></p><p>部署在 <a href="https://pages.github.com/">Github pages</a> 上</p><p>我使用的Theme主題是 <a href="https://butterfly.js.org/">Butterfly</a></p><h3 id="網頁用途">網頁用途</h3><p>這裡是我的程式筆記網頁</p><p>內容包括我所學到的 資料結構 演算法</p><p>不會有程式語言基礎語法 因為網路上資源多且詳細</p><p>筆記中的內容或許會有小錯誤或不完整 所以我會不斷的更新修改</p><p>我也會不定期的發佈 程式解題 知識筆記 還有各種心得紀錄 …</p><p>有興趣的人可以參閱其他文章或到上方其他頁面看看</p><p>如果你對文章有任何想法或建議 歡迎在文章下方評論區登入 Github 帳號 留下你的看法</p><p>或是可以直接使用右側中間的 線上聊天室功能 傳訊息給我 我會盡快回覆你的訊息</p><p>若你想開始學程式 請到上方 link 連結 的頁面 我有放許多資源可以提供你學習</p><p>提供的資源涵蓋 各種程式語言的基礎語法 以及各種程式相關平台 工具…</p><p>以及各個程式社群的 Discord 伺服器</p><p>希望能對你有所幫助 ！</p><h3 id="網址">網址</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://shiyu0318.github.io</span><br></pre></td></tr></table></figure><hr><h2 id="點擊回到導覽頁面"><a href="https://shiyu0318.github.io/post/Sitemap/">點擊回到導覽頁面</a></h2><hr>]]></content>
+      
+      
       
     </entry>
     
