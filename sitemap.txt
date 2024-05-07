@@ -1,9 +1,10 @@
+https://4yu.dev/post/NFIRC-Found/
+https://4yu.dev/post/NFIRC-Review/
 https://4yu.dev/about/
 https://4yu.dev/post/NHSPC/
 https://4yu.dev/post/Sitemap/
 https://4yu.dev/post/Data-Structures-advanced/
 https://4yu.dev/post/Neural-Network/
-https://4yu.dev/post/NFIRC/
 https://4yu.dev/post/Sort-Algorithm/
 https://4yu.dev/post/Data-Structures-python/
 https://4yu.dev/post/Big-O/
@@ -89,6 +90,8 @@ https://4yu.dev/tags/%E8%B3%87%E8%A8%8A%E7%A4%BE/
 https://4yu.dev/tags/%E6%88%90%E5%A4%A7%E8%B3%87%E5%B7%A5/
 https://4yu.dev/tags/SCIST/
 https://4yu.dev/tags/%E5%AF%92%E8%A8%93/
+https://4yu.dev/tags/%E5%8D%97%E9%99%84%E8%B3%87%E7%A0%94%E7%A4%BE/
+https://4yu.dev/tags/NFIRC-1st/
 https://4yu.dev/categories/%E7%AD%86%E8%A8%98/
 https://4yu.dev/categories/%E7%AD%86%E8%A8%98/%E7%A8%8B%E5%BC%8F/
 https://4yu.dev/categories/%E7%AD%86%E8%A8%98/AI-%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/
