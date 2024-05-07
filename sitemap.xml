@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://4yu.dev/post/NFIRC-Found/</loc>
+    <loc>https://4yu.dev/post/NFIRC-Review/</loc>
     
     <lastmod>2024-05-07</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://4yu.dev/post/NFIRC-Review/</loc>
+    <loc>https://4yu.dev/post/NFIRC-Found/</loc>
     
     <lastmod>2024-05-07</lastmod>
     
@@ -488,34 +488,6 @@
   
   <url>
     <loc>https://4yu.dev/tags/%E7%87%9F%E9%9A%8A/</loc>
-    <lastmod>2024-05-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://4yu.dev/tags/%E5%8D%97%E5%A4%A7%E9%99%84%E4%B8%AD/</loc>
-    <lastmod>2024-05-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://4yu.dev/tags/%E8%B3%87%E8%A8%8A%E7%A0%94%E7%A9%B6%E7%A4%BE/</loc>
-    <lastmod>2024-05-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://4yu.dev/tags/%E7%AC%AC%E4%B8%80%E5%B1%86/</loc>
-    <lastmod>2024-05-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://4yu.dev/tags/NFIRC/</loc>
     <lastmod>2024-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
