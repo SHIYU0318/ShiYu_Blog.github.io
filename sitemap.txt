@@ -1,3 +1,4 @@
+https://4yu.dev/post/Hello-World/
 https://4yu.dev/post/NFIRC-Review/
 https://4yu.dev/post/NFIRC-Found/
 https://4yu.dev/about/
@@ -8,7 +9,6 @@ https://4yu.dev/post/Neural-Network/
 https://4yu.dev/post/Sort-Algorithm/
 https://4yu.dev/post/Data-Structures-python/
 https://4yu.dev/post/Big-O/
-https://4yu.dev/post/Hello-World/
 https://4yu.dev/post/AI-note/
 https://4yu.dev/post/Data-Structures-basic/
 https://4yu.dev/post/Profession-Interview/
