@@ -1,7 +1,7 @@
+https://4yu.dev/about/
 https://4yu.dev/post/Hello-World/
 https://4yu.dev/post/NFIRC-Review/
 https://4yu.dev/post/NFIRC-Found/
-https://4yu.dev/about/
 https://4yu.dev/post/NHSPC/
 https://4yu.dev/post/Sitemap/
 https://4yu.dev/post/Data-Structures-advanced/
