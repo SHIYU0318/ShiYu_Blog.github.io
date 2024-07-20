@@ -500,7 +500,7 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
 <li>線段樹 Segment Tree</li>
 <li>樹堆 Treap</li>
 <li>鏈結串列 Linked-list</li>
-<li>並查集 Disjoint Set</li>
+<li>並查集 DSU</li>
 <li>rope</li>
 <li>pbds</li>
 </ul>
@@ -510,7 +510,7 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
 <p>前綴和（Prefix Sum）可以簡單理解為 <code>數列由前往後累加的值</code></p>
 <p><img src="https://hackmd.io/_uploads/Hyl0qg__C.png" alt="image"></p>
 <h3 id="建出前綴和數列">建出前綴和數列</h3>
-<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">signed</span> <span class="title">main</span><span class="params">()</span> </span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> n; cin &gt;&gt; n;</span><br><span class="line">    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">v</span><span class="params">(n)</span>, <span class="title">p</span><span class="params">(n+<span class="number">1</span>)</span></span>;</span><br><span class="line">    p[<span class="number">0</span>] = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i=<span class="number">0</span>;i&lt;n;++i)</span><br><span class="line">    &#123;</span><br><span class="line">        cin &gt;&gt; v[i];</span><br><span class="line">        sum[i+<span class="number">1</span>] = v[i] + p[i];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">auto</span> i:p) cout &lt;&lt; i &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">&#125;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">signed</span> <span class="title">main</span><span class="params">()</span> </span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> n; cin &gt;&gt; n;</span><br><span class="line">    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">v</span><span class="params">(n)</span>, <span class="title">p</span><span class="params">(n+<span class="number">1</span>)</span></span>;</span><br><span class="line">    p[<span class="number">0</span>] = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i=<span class="number">0</span>;i&lt;n;++i)</span><br><span class="line">    &#123;</span><br><span class="line">        cin &gt;&gt; v[i];</span><br><span class="line">        sum[i+<span class="number">1</span>] = v[i] + p[i];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">auto</span> i:p) cout &lt;&lt; i &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>注意：前綴和數列會比原數列多了一項，記得初始化第 0 項為 0</p>
 </blockquote>
@@ -524,6 +524,9 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
 <p>有了前綴和後，每次查詢使用一次減法 <code>第 r+1 項 - 第 l 項</code> 即可快速取得區間和，直接將時間複雜度從 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo stretchy="false">(</mo><mi>n</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">O(n)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord mathnormal">n</span><span class="mclose">)</span></span></span></span> 降到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>O</mi><mo stretchy="false">(</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">O(1)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.02778em;">O</span><span class="mopen">(</span><span class="mord">1</span><span class="mclose">)</span></span></span></span></p>
 <p><img src="https://hackmd.io/_uploads/rJzZoxO_C.png" alt="image"></p>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> q,l,r; cin &gt;&gt; q;</span><br><span class="line"><span class="keyword">while</span>(q--)</span><br><span class="line">&#123;</span><br><span class="line">    cin &gt;&gt; l &gt;&gt; r;</span><br><span class="line">    cout &lt;&lt; p[r+<span class="number">1</span>] - p[l] &lt;&lt; <span class="string">&#x27;\n&#x27;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<h3 id="內建函數">內建函數</h3>
+<p>std 內建了可以建立前綴和的函數 <code>partial_sum(原數列起點, 原數列終點, 新數列起點)</code>，使用方法如下：</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">signed</span> <span class="title">main</span><span class="params">()</span> </span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> n; cin &gt;&gt; n;</span><br><span class="line">    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">v</span><span class="params">(n)</span>, <span class="title">p</span><span class="params">(n+<span class="number">1</span>)</span></span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">auto</span> &amp;i:v) cin &gt;&gt; i;</span><br><span class="line">    <span class="built_in">partial_sum</span>(v.<span class="built_in">begin</span>(), v.<span class="built_in">end</span>(), p.<span class="built_in">begin</span>()+<span class="number">1</span>);</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">auto</span> i:p) cout &lt;&lt; i &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>前綴和能快速取得區間和，而快速取得區間的最大/最小值則會用到本篇內容之一的 稀疏表 Sparse Table</p>
 </blockquote>
@@ -549,7 +552,7 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
 <p><img src="https://hackmd.io/_uploads/rySi57u_C.png" alt="image"></p>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> q; cin &gt;&gt; q;</span><br><span class="line"><span class="keyword">while</span>(q--)</span><br><span class="line">&#123;</span><br><span class="line">    <span class="type">int</span> x1,x2,y1,y2;</span><br><span class="line">    cin &gt;&gt; x1 &gt;&gt; y1 &gt;&gt; x2 &gt;&gt; y2;</span><br><span class="line">    x1--; y1--;</span><br><span class="line">    <span class="type">int</span> sum = pre[x2][y2] - pre[x1][y2] - pre[x2][y1] + pre[x1][y1];</span><br><span class="line">    cout &lt;&lt; ans &lt;&lt; <span class="string">&#x27;\n&#x27;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <h3 id="差分數列">差分數列</h3>
-<p>差分數列為原數列相鄰元素的差值</p>
+<p>與前綴和相反的概念，差分數列為原數列相鄰元素的差值</p>
 <h4 id="建出差分數列">建出差分數列</h4>
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="type">signed</span> <span class="title">main</span><span class="params">()</span> </span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="type">int</span> n; cin &gt;&gt; n;</span><br><span class="line">    <span class="function">vector&lt;<span class="type">int</span>&gt; <span class="title">v</span><span class="params">(n)</span>, <span class="title">d</span><span class="params">(n)</span></span>;</span><br><span class="line">    cin &gt;&gt; v[<span class="number">0</span>]; d[<span class="number">0</span>] = v[<span class="number">0</span>];</span><br><span class="line">    <span class="keyword">for</span>(<span class="type">int</span> i=<span class="number">1</span>;i&lt;n;++i)</span><br><span class="line">    &#123;</span><br><span class="line">        cin &gt;&gt; v[i];</span><br><span class="line">        d[i] = v[i] - v[i<span class="number">-1</span>];</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">auto</span> i:d) cout &lt;&lt; i &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br></pre></td></tr></table></figure>
 <p>我們要解決以下問題：</p>
@@ -565,6 +568,13 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
 <figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="type">int</span> q,l,r,x; cin &gt;&gt; q;</span><br><span class="line"><span class="keyword">while</span>(q--)</span><br><span class="line">&#123;</span><br><span class="line">    cin &gt;&gt; l &gt;&gt; r &gt;&gt; x;</span><br><span class="line">    d[l] += x;</span><br><span class="line">    d[r+<span class="number">1</span>] -= x;</span><br><span class="line">&#125;</span><br><span class="line"><span class="type">int</span> sum = <span class="number">0</span>;</span><br><span class="line"><span class="keyword">for</span>(<span class="type">int</span> i=<span class="number">0</span>;i&lt;n;++i)</span><br><span class="line">&#123;</span><br><span class="line">    sum += d[i];</span><br><span class="line">    cout &lt;&lt; sum &lt;&lt; <span class="string">&#x27; &#x27;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <blockquote>
 <p>注意：此方法只適用於不需要中途詢問的情況，前綴和 &amp; 差分如果要帶修改則會用到本篇內容之一的 BIT 樹狀數組</p>
+</blockquote>
+<blockquote>
+<p>這兩種資料結構在處理區間操作時非常有用，特別是在需要頻繁進行區間求和或區間更新的問題中。</p>
+</blockquote>
+<blockquote>
+<p>差分和前綴和互為逆運算<br>
+<code>對差分數列做前綴和</code> 或 <code>對前綴和數列作差分</code> 都會獲得 <code>原陣列</code></p>
 </blockquote>
 <hr>
 <h2 id="稀疏表-Sparse-Table">稀疏表 Sparse Table</h2>
@@ -596,7 +606,6 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
       <tags>
         <tag>C++</tag>
         <tag>資料結構 Data Structures</tag>
-        <tag>並查集 Disjoint Set</tag>
         <tag>線段樹 Segment Tree</tag>
         <tag>樹狀數組 BIT</tag>
         <tag>稀疏表 Sparse Table</tag>
@@ -605,6 +614,7 @@ STL 中的基礎資料結構只需學會如何應用即可，而此篇的資料�
         <tag>rope</tag>
         <tag>pbds</tag>
         <tag>前綴和 &amp; 差分數列</tag>
+        <tag>並查集 DSU</tag>
       </tags>
   </entry>
   <entry>
