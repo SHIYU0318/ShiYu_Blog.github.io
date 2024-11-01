@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://4yu.dev/post/NFIRC/</loc>
+    
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://4yu.dev/post/Sort-Algorithm/</loc>
     
     <lastmod>2024-11-01</lastmod>
@@ -77,24 +86,6 @@
     <loc>https://4yu.dev/post/Hello-World/</loc>
     
     <lastmod>2024-05-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://4yu.dev/post/NFIRC-Review/</loc>
-    
-    <lastmod>2024-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://4yu.dev/post/NFIRC-Found/</loc>
-    
-    <lastmod>2024-05-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
