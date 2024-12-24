@@ -1,11 +1,11 @@
 https://4yu.dev/post/Winter-Camp-2024/
-https://4yu.dev/post/Profession-Interview/
-https://4yu.dev/post/NHSPC/
-https://4yu.dev/post/Fun-AI-2024/
+https://4yu.dev/post/(Unpublished)Profession-Interview/
+https://4yu.dev/post/(Unpublished)NHSPC/
+https://4yu.dev/post/(Unpublished)Fun-AI-2024/
 https://4yu.dev/post/NFIRC/
 https://4yu.dev/post/Sort-Algorithm/
 https://4yu.dev/post/STL/
-https://4yu.dev/post/Sitemap/
+https://4yu.dev/post/(Unpublished)Sitemap/
 https://4yu.dev/about/
 https://4yu.dev/post/Hello-World/
 https://4yu.dev/post/Neural-Network/
